@@ -23,3 +23,8 @@
 - Tämän jälkeen ruudulle voi valita autonavigaattoreista tutun navigointipohjan tai ylhäältä kuvatun yksinkertaisen kartan missä käyttäjä näkyy punaisena pisteenä ja luokkahuone / haettava ihminen tummennettuna.
 - Ulkoasun valinnan jälkeen ohjelma käynnistyy ja antaa reaaliaikaista tietoa käyttäjien liikkeistä.
 
+#### Käyttötapaus 2. 
+
+- Ohjelma kerää tietoa kaikista oppilaiden ja opettajien liikkeistä anonyymisti ja tekee niistä "lämpökuvan".
+- Tietokoneen ruudulta voidaan tarkastella kokonaiskuvaa, joko tunnin, päivän, viikon tai pidemmän ajan sisään. 
+

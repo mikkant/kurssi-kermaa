@@ -28,3 +28,9 @@
 - Ohjelma kerää tietoa kaikista oppilaiden ja opettajien liikkeistä anonyymisti ja tekee niistä "lämpökuvan".
 - Tietokoneen ruudulta voidaan tarkastella kokonaiskuvaa, joko tunnin, päivän, viikon tai pidemmän ajan sisään. 
 
+#### Käyttötapaus 3. 
+
+- Käyttäjän liikkeisiin perustuva mainonta / tiedotus
+- Käyttäjä saa tietoa vapaista ja vapautuvista luokista. 
+- Unicafe ja mainonta. Päivän tarjoukset, ruokalistat jne... Esim. Kun käyttäjä siirtyy Unicafen läheisyyteen, ohjelma näyttää käyttäjille päivän tarjoukset ja ruokalistat hintoineen.
+- Mahdolliset muutokset kirjaston aukioloihin jne... Esim. Vierailtaessa kirjastossa ohjelma ilmoittaa kirjaston aukioloajat.

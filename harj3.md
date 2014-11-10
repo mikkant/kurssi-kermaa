@@ -14,3 +14,12 @@
 - Ihmisten seuranta kampuksella. 
 - Mainonta ja tiedotteet, esim. Unicafe
 
+### iii.
+
+#### Käyttötapaus 1.
+
+- Mobiililaitteen etsintäruudussa valitaan opettajan tai oppilaan etu- tai sukunimi. 
+- Mikäli tarkoitus on hakea luokkahuonetta kirjoitetaan etsintäruutuun haussa oleva luokkanumero.
+- Tämän jälkeen ruudulle voi valita autonavigaattoreista tutun navigointipohjan tai ylhäältä kuvatun yksinkertaisen kartan missä käyttäjä näkyy punaisena pisteenä ja luokkahuone / haettava ihminen tummennettuna.
+- Ulkoasun valinnan jälkeen ohjelma käynnistyy ja antaa reaaliaikaista tietoa käyttäjien liikkeistä.
+
